@@ -1,0 +1,62 @@
+.box{
+  height: 270px;
+  width: 400px;
+  background-color:whitesmoke;
+  margin-left: 900px;
+  margin-top: 140px;
+  border: 0.3px solid black;
+  box-shadow: 0.3px solid white;
+}
+
+#head{
+  font-size: 20px; 
+  text-align: center; 
+  padding: 10px;
+}
+.form{
+  padding-left: 100px;
+}
+
+.form input{
+  height: 40px;
+  width: 260px;
+  position: relative;
+  right: 30px;
+  border-radius: 4px;
+  padding-left: 20px;
+
+}
+
+.form #inputtwo{
+  margin-top: 10px;
+  border-radius:3px;;
+}
+
+.sub input{
+  background-color: rgba(15, 135, 183, 0.858);
+  color: white;
+  font-size: 20px;
+  margin-top: 10px;
+  width: 360px;
+  padding-left: 10px;
+  position: relative;
+  margin-left: -50px;
+}
+
+.container h1{
+  color: rgb(40, 101, 244);
+  font-size: 80px;
+  position: relative;
+  top: 100px;
+  left:930px;
+}
+
+.text h1{
+  color: blueviolet;
+  font-size: 40px;
+  position: relative;
+  top: -300px;
+  left: 100px;
+  width: 400px;
+}
+
