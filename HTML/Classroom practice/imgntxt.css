@@ -1,0 +1,57 @@
+.img{
+  position: absolute;
+  height: 300px;
+  width: 300px;
+}
+
+.img img{
+  height: 300px;
+  width: 300px;
+}
+
+.img .span{
+  position: relative;
+  bottom: 100px;
+  font-size: 50px;
+}
+.transform{
+  position: relative;
+   top: 400px;
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  transform: rotate(45deg);
+}
+.translate{
+  position: relative;
+  transform: translate(100px,100px);
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+.scale{
+  position: relative;
+  height: 100px;
+  width: 100px;
+  top: 400px;
+ background-color: blueviolet;
+ transform: scale(1,1);
+}
+.scaleX{
+  position: relative;
+  left: 300px;
+  height: 100px;
+  width: 100px;
+  /* top: 400px; */
+ background-color: rgb(43, 226, 61);
+ /* transform: skewX(2deg,8deg); */
+ /* transform: skewX(8deg); */
+ transform: skewY(8deg);
+
+}
+
+
+
+
+
+
