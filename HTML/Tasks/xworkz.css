@@ -1,0 +1,156 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-color: rgb(42, 39, 39);
+  height: 80px;
+  
+}
+#img{
+   left: 80px;
+   top: 10px;
+   height: 70px;
+   width: 140px;
+   position: relative;
+}
+.headlinks {
+  position: relative;
+  left: 180px;
+  top: -20px;
+  padding: 10px; 
+  display: inline;
+}
+.headlinks a{
+  color: white;
+  text-decoration: none;
+  justify-content: space-evenly;
+  padding: 5px;
+  margin-inline: 10px;
+}
+.logo{
+  position: relative;
+  height: 40px;
+  width: 220px;
+  left: 1250px;
+  top: -50px;
+  
+}
+.logo img{
+  position: relative;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  padding-right: 12px;
+  color: transparent;
+}
+.rowJustiy-content{
+  width: 1520px;
+  height: 540px;
+ display: inline-flex;
+ justify-content: space-around;
+ position: relative;
+ margin-top: 20px;
+ 
+}
+
+.leftside{
+  height: 520px;
+  width: 540px;
+ display: inline;
+  position: relative;
+  left: 100px;
+}
+.rowJustiy-content img{
+  position: relative;
+  height: 520px;
+  width: 540px;
+}
+
+.leftside .head1{
+  font-size: 50px;
+  position: relative;
+  top: 100px;
+  left: 60px;
+ color: rgb(34, 33, 35);
+}
+.leftside .head2{
+  font-size: 50px;
+  position: relative;
+  top: 100px;
+  left: 60px;
+  color: #ff014f;
+}
+.rowJustiy-content a:active{
+  color: aliceblue;
+  text-decoration: none;
+}
+.rowJustiy-content input{
+  position: relative;
+  font-size: 15px;
+  font-weight: bold;
+  top: 100px;
+  left: 70px;
+  background-color: #f06509;
+  padding: 15px;
+  border-radius: 25px;
+  border: 0.2px white;
+}
+.hero{
+  position: relative;
+  top: 50px;
+  height: 200px;
+} 
+.he{
+  position: relative; 
+  top: 20px;
+}
+.he #we{
+  color: rgb(55, 50, 50);
+  font-family: poppins,sans-serif;
+  width: 60px;
+  position: relative;
+  left: 580px;
+}
+.he #teach{
+  position: relative;
+  font-family: poppins,sans-serif;
+  color: #f06509; 
+  width: 120px;
+  position: relative;
+  left: 635px;
+  top: -38px;
+}
+
+
+.technologies img{
+  height:60px;
+  position: relative;
+  left: 180px;
+  display: inline-flex;
+  justify-content: space-around;
+  margin-inline: 30px;
+ 
+}
+.technologies{
+  position: relative;
+  top: 10px;
+  /* height: 100px; */
+  /* display: inline-block; */
+}
+.technologies #java{
+  height:80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
